@@ -1,0 +1,12 @@
+.footer {
+  background-color: #E1C16E;
+  height: auto;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    height: 100px;
+    width: 100%;
+  }
+}
