@@ -1,3 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow:1;
+}
+
 .footer {
   background-color: #E1C16E;
   height: auto;
